@@ -19,6 +19,8 @@ public class OpenFacebook {
 		System.out.println(driver.getTitle());
 		
 		driver.findElement(By.xpath("//*[text()='Create New Account']")).click();
+		
+		System.out.println(driver.getTitle());
 		driver.close();
 	}
 
