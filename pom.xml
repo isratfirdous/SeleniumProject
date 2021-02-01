@@ -3,6 +3,11 @@
   <groupId>MySeleniumProject</groupId>
   <artifactId>MySeleniumProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  
+  
+  
   <dependencies>
    <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
    <dependency>
@@ -18,5 +23,6 @@
     <version>6.14.3</version>
     <scope>test</scope>
    </dependency>
+   
    </dependencies>
 </project>
