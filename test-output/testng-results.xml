@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6705" started-at="2021-02-01T13:33:31Z" finished-at="2021-02-01T13:33:38Z">
+  <suite name="Default suite" duration-ms="7735" started-at="2021-02-01T14:23:47Z" finished-at="2021-02-01T14:23:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6705" started-at="2021-02-01T13:33:31Z" finished-at="2021-02-01T13:33:38Z">
+    <test name="Default test" duration-ms="7735" started-at="2021-02-01T14:23:47Z" finished-at="2021-02-01T14:23:55Z">
       <class name="mySeleniumPackage.OpenFacebook">
-        <test-method status="PASS" signature="mainTest()[pri:0, instance:mySeleniumPackage.OpenFacebook@18be83e4]" name="mainTest" duration-ms="6669" started-at="2021-02-01T13:33:31Z" finished-at="2021-02-01T13:33:38Z">
+        <test-method status="PASS" signature="mainTest()[pri:0, instance:mySeleniumPackage.OpenFacebook@18be83e4]" name="mainTest" duration-ms="7694" started-at="2021-02-01T14:23:48Z" finished-at="2021-02-01T14:23:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mainTest -->
